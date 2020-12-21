@@ -1,0 +1,794 @@
+
+.content-wrapper{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.mediaViewInfo {
+    --web-view-name: Android Mobile – 2;
+    --web-view-id: Android_Mobile___2;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Android_Mobile___2;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Android_Mobile___2 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 751px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Android Mobile – 2;
+    --web-view-id: Android_Mobile___2;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#price {
+    position: absolute;
+    left: 307px;
+    top: 233px;
+    overflow: visible;
+    width: 33px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Group_18 {
+    position: absolute;
+    width: 412px;
+    height: 684px;
+    left: 12.5px;
+    top: 37px;
+    overflow: visible;
+}
+#Group_13 {
+    position: absolute;
+    width: 412px;
+    height: 684px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_12 {
+    position: absolute;
+    width: 213px;
+    height: 57px;
+    left: 100.5px;
+    top: 0px;
+    overflow: visible;
+}
+#Codverts__Systems {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 214px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,0,0,1);
+}
+#P_O_BOX_1047___30100 {
+    position: absolute;
+    left: 21px;
+    top: 33px;
+    overflow: visible;
+    width: 177px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+}
+#Group_11 {
+    position: absolute;
+    width: 412px;
+    height: 581px;
+    left: 0px;
+    top: 103px;
+    overflow: visible;
+}
+#Group_8 {
+    position: absolute;
+    width: 412px;
+    height: 156.5px;
+    left: 0px;
+    top: 257.5px;
+    overflow: visible;
+}
+.Line_2 {
+    overflow: visible;
+    position: absolute;
+    width: 410.007px;
+    height: 4px;
+    left: 2px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_4 {
+    position: absolute;
+    width: 380px;
+    height: 19px;
+    left: 12.5px;
+    top: 17.5px;
+    overflow: visible;
+}
+#SUBTOTAL_ {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 68px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#ID18__525 {
+    position: absolute;
+    left: 335px;
+    top: 0px;
+    overflow: visible;
+    width: 46px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#Group_5 {
+    position: absolute;
+    width: 380px;
+    height: 19px;
+    left: 12.5px;
+    top: 41.5px;
+    overflow: visible;
+}
+#VAT___14_ {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 72px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#ID2593_5 {
+    position: absolute;
+    left: 339px;
+    top: 0px;
+    overflow: visible;
+    width: 42px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#Group_6 {
+    position: absolute;
+    width: 377px;
+    height: 19px;
+    left: 12.5px;
+    top: 65.5px;
+    overflow: visible;
+}
+#TOTAL_DISCOUNT {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 111px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#ID0 {
+    position: absolute;
+    left: 369px;
+    top: 0px;
+    overflow: visible;
+    width: 9px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#Group_7 {
+    position: absolute;
+    width: 374px;
+    height: 19px;
+    left: 14.5px;
+    top: 89.5px;
+    overflow: visible;
+}
+#SERVICE_CHARGE {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 108px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#ID0_ {
+    position: absolute;
+    left: 366px;
+    top: 0px;
+    overflow: visible;
+    width: 9px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+.Line_3 {
+    overflow: visible;
+    position: absolute;
+    width: 410.007px;
+    height: 4px;
+    left: 0px;
+    top: 125px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#TOTAL {
+    position: absolute;
+    left: 13.5px;
+    top: 137.5px;
+    overflow: visible;
+    width: 40px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#ID21__118_5 {
+    position: absolute;
+    left: 337.5px;
+    top: 137.5px;
+    overflow: visible;
+    width: 56px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#Group_9 {
+    position: absolute;
+    width: 400px;
+    height: 127px;
+    left: 0.5px;
+    top: 454px;
+    overflow: visible;
+}
+#Thank_You_For_Your_Visit {
+    position: absolute;
+    left: 90px;
+    top: 0px;
+    overflow: visible;
+    width: 230px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Please_keep_for_your_record_ {
+    position: absolute;
+    left: 126px;
+    top: 27px;
+    overflow: visible;
+    width: 173px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#Safina_Plaza__3rd_flr_RM_S5 {
+    position: absolute;
+    left: 147px;
+    top: 60px;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#www_codeverts_com {
+    position: absolute;
+    left: 149px;
+    top: 84px;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(43,79,255,1);
+}
+#info_codeverts_com {
+    position: absolute;
+    left: 147px;
+    top: 108px;
+    overflow: visible;
+    width: 128px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#______________________________ {
+    position: absolute;
+    left: 0px;
+    top: 39px;
+    overflow: visible;
+    width: 401px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#Group_3 {
+    position: absolute;
+    width: 404px;
+    height: 115px;
+    left: 0.5px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_2 {
+    position: absolute;
+    width: 305px;
+    height: 80px;
+    left: 17px;
+    top: 0px;
+    overflow: visible;
+}
+#RECEIPT__P05189976Q {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 208px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+#ID1_1_11___2020_09_15_HRS {
+    position: absolute;
+    left: 0px;
+    top: 34px;
+    overflow: visible;
+    width: 90px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(0,0,0,1);
+}
+#User__Gideon {
+    position: absolute;
+    left: 203px;
+    top: 56px;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+}
+#Group_1 {
+    position: absolute;
+    width: 404px;
+    height: 20px;
+    left: 0px;
+    top: 95px;
+    overflow: visible;
+}
+#_Serial_No {
+    position: absolute;
+    left: 0px;
+    top: 1px;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0,0,0,1);
+}
+#Qty {
+    position: absolute;
+    left: 242px;
+    top: 0px;
+    overflow: visible;
+    width: 25px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Line_Total {
+    position: absolute;
+    left: 341px;
+    top: 0px;
+    overflow: visible;
+    width: 64px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Name_Description {
+    position: absolute;
+    left: 81px;
+    top: 0px;
+    overflow: visible;
+    width: 122px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#_______________________________bm {
+    position: absolute;
+    left: 17.5px;
+    top: 78px;
+    overflow: visible;
+    width: 383px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0,0,0,1);
+}
+.Line_4 {
+    overflow: visible;
+    position: absolute;
+    width: 406.002px;
+    height: 2px;
+    left: 0px;
+    top: 216.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_19 {
+    position: absolute;
+    width: 403px;
+    height: 125px;
+    left: 12px;
+    top: 263px;
+    overflow: visible;
+}
+#Group_15 {
+    position: absolute;
+    width: 402px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#ID46468466846 {
+    position: absolute;
+    left: 0px;
+    top: 7px;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(0,0,0,1);
+}
+#Oppo_A53_2GB___32GB___13MP {
+    position: absolute;
+    left: 106px;
+    top: 0px;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID1 {
+    position: absolute;
+    left: 249px;
+    top: 5px;
+    overflow: visible;
+    width: 7px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID16500 {
+    position: absolute;
+    left: 292px;
+    top: 5px;
+    overflow: visible;
+    width: 33px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID16500_bu {
+    position: absolute;
+    left: 362px;
+    top: 2px;
+    overflow: visible;
+    width: 41px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Group_16 {
+    position: absolute;
+    width: 402px;
+    height: 31px;
+    left: 1px;
+    top: 31px;
+    overflow: visible;
+}
+#ID5468466786 {
+    position: absolute;
+    left: 0px;
+    top: 9px;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(0,0,0,1);
+}
+#A_really_long_item_name_4GB___ {
+    position: absolute;
+    left: 82px;
+    top: 0px;
+    overflow: visible;
+    width: 146px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID4 {
+    position: absolute;
+    left: 246px;
+    top: 6px;
+    overflow: visible;
+    width: 11px;
+    height: 20px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID355 {
+    position: absolute;
+    left: 294px;
+    top: 9px;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID1420 {
+    position: absolute;
+    left: 370px;
+    top: 6px;
+    overflow: visible;
+    width: 33px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+#Group_17 {
+    position: absolute;
+    width: 397px;
+    height: 46px;
+    left: 0px;
+    top: 79px;
+    overflow: visible;
+}
+#ID648648468 {
+    position: absolute;
+    left: 0px;
+    top: 7px;
+    overflow: visible;
+    width: 64px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: rgba(0,0,0,1);
+}
+#Kerol_Disinfectant_500ml_1GB__ {
+    position: absolute;
+    left: 84px;
+    top: 0px;
+    overflow: visible;
+    width: 148px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID1_b {
+    position: absolute;
+    left: 250px;
+    top: 7px;
+    overflow: visible;
+    width: 7px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID605 {
+    position: absolute;
+    left: 293px;
+    top: 7px;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(0,0,0,1);
+}
+#ID605_b {
+    position: absolute;
+    left: 373px;
+    top: 4px;
+    overflow: visible;
+    width: 25px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,1);
+}
+.nav-container{
+    display: flex;
+}
+.mobile-container{
+    align-items: center;
+    justify-items: center;
+}
